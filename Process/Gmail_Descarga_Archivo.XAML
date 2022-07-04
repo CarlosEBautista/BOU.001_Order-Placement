@@ -79,6 +79,7 @@
       <AssemblyReference>System.ValueTuple</AssemblyReference>
       <AssemblyReference>System.ComponentModel.Composition</AssemblyReference>
       <AssemblyReference>UiPath.Excel</AssemblyReference>
+      <AssemblyReference>System.Runtime.WindowsRuntime</AssemblyReference>
     </scg:List>
   </TextExpression.ReferencesForImplementation>
   <Sequence sap2010:Annotation.AnnotationText="System: Gmail&#xA;-Input: N/A&#xA;-Output: Purchase Orders File&#xA;" DisplayName="Gmail_Descarga_Archivo" sap:VirtualizedContainerService.HintSize="604,908" sap2010:WorkflowViewState.IdRef="Sequence_1">
@@ -120,7 +121,7 @@
                 <InArgument x:TypeArguments="x:String">[Correo.Subject]</InArgument>
               </Assign.Value>
             </Assign>
-            <If Condition="[Subject.ToUpper.Contains(&quot;CONFIRMACION DE DEPOSITO&quot;)]" DisplayName="Condición Primer Nivel" sap:VirtualizedContainerService.HintSize="484,247" sap2010:WorkflowViewState.IdRef="If_1">
+            <If Condition="[Subject.ToUpper.Contains(&quot;CONFIRMACION DE DEPOSITO - CORREO&quot;)]" DisplayName="Condición Primer Nivel" sap:VirtualizedContainerService.HintSize="484,247" sap2010:WorkflowViewState.IdRef="If_1">
               <If.Then>
                 <ui:SaveMailAttachments Attachments="{x:Null}" DisplayName="Save Attachments" FolderPath="Data\" sap:VirtualizedContainerService.HintSize="200,51" sap2010:WorkflowViewState.IdRef="SaveMailAttachments_2" Message="[Correo]" OverwriteExisting="True">
                   <sap:WorkflowViewStateService.ViewState>
