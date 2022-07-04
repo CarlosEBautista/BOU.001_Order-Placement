@@ -1,0 +1,50 @@
+03/07/2022,12:05:39,,Nombre No valido,Error,Business rule exception.Nombre No valido
+03/07/2022,12:25:30,,Nombre No valido,Error,Business rule exception.Nombre No valido
+03/07/2022,11:41:18,,Invoke BOU.001.03 workflow: Invoke BOU.001.04 workflow: Send SMTP Mail Message,Failed,"System exception. Retry: 1. An error occurred while attempting to establish an SSL or TLS connection.
+
+The host name did not match the name given in the server's SSL certificate.
+ at Source: Invoke BOU.001.03 workflow: Invoke BOU.001.04 workflow: Send SMTP Mail Message"
+03/07/2022,11:41:32,,Invoke BOU.001.03 workflow: Invoke BOU.001.04 workflow: Send SMTP Mail Message,Failed,"System exception. Retry: 2. An error occurred while attempting to establish an SSL or TLS connection.
+
+The host name did not match the name given in the server's SSL certificate.
+ at Source: Invoke BOU.001.03 workflow: Invoke BOU.001.04 workflow: Send SMTP Mail Message"
+03/07/2022,11:41:44,,Invoke BOU.001.03 workflow: Invoke BOU.001.04 workflow: Send SMTP Mail Message,Failed,"System exception. Retry: 3. An error occurred while attempting to establish an SSL or TLS connection.
+
+The host name did not match the name given in the server's SSL certificate.
+ at Source: Invoke BOU.001.03 workflow: Invoke BOU.001.04 workflow: Send SMTP Mail Message"
+03/07/2022,11:41:56,,Invoke BOU.001.03 workflow: Invoke BOU.001.04 workflow: Send SMTP Mail Message,Failed,"System exception. Retry: 0. An error occurred while attempting to establish an SSL or TLS connection.
+
+The host name did not match the name given in the server's SSL certificate.
+ at Source: Invoke BOU.001.03 workflow: Invoke BOU.001.04 workflow: Send SMTP Mail Message"
+03/07/2022,11:42:09,,Invoke BOU.001.03 workflow: Invoke BOU.001.04 workflow: Send SMTP Mail Message,Failed,"System exception. Retry: 1. An error occurred while attempting to establish an SSL or TLS connection.
+
+The host name did not match the name given in the server's SSL certificate.
+ at Source: Invoke BOU.001.03 workflow: Invoke BOU.001.04 workflow: Send SMTP Mail Message"
+03/07/2022,11:42:21,,Invoke BOU.001.03 workflow: Invoke BOU.001.04 workflow: Send SMTP Mail Message,Failed,"System exception. Retry: 2. An error occurred while attempting to establish an SSL or TLS connection.
+
+The host name did not match the name given in the server's SSL certificate.
+ at Source: Invoke BOU.001.03 workflow: Invoke BOU.001.04 workflow: Send SMTP Mail Message"
+03/07/2022,11:42:34,,Invoke BOU.001.03 workflow: Invoke BOU.001.04 workflow: Send SMTP Mail Message,Failed,"System exception. Retry: 3. An error occurred while attempting to establish an SSL or TLS connection.
+
+The host name did not match the name given in the server's SSL certificate.
+ at Source: Invoke BOU.001.03 workflow: Invoke BOU.001.04 workflow: Send SMTP Mail Message"
+03/07/2022,11:42:46,,Invoke BOU.001.03 workflow: Invoke BOU.001.04 workflow: Send SMTP Mail Message,Failed,"System exception. Retry: 0. An error occurred while attempting to establish an SSL or TLS connection.
+
+The host name did not match the name given in the server's SSL certificate.
+ at Source: Invoke BOU.001.03 workflow: Invoke BOU.001.04 workflow: Send SMTP Mail Message"
+03/07/2022,11:42:57,,Invoke BOU.001.03 workflow: Invoke BOU.001.04 workflow: Send SMTP Mail Message,Failed,"System exception. Retry: 1. An error occurred while attempting to establish an SSL or TLS connection.
+
+The host name did not match the name given in the server's SSL certificate.
+ at Source: Invoke BOU.001.03 workflow: Invoke BOU.001.04 workflow: Send SMTP Mail Message"
+03/07/2022,11:43:09,,Invoke BOU.001.03 workflow: Invoke BOU.001.04 workflow: Send SMTP Mail Message,Failed,"System exception. Retry: 2. An error occurred while attempting to establish an SSL or TLS connection.
+
+The host name did not match the name given in the server's SSL certificate.
+ at Source: Invoke BOU.001.03 workflow: Invoke BOU.001.04 workflow: Send SMTP Mail Message"
+03/07/2022,11:43:21,,Invoke BOU.001.03 workflow: Invoke BOU.001.04 workflow: Send SMTP Mail Message,Failed,"System exception. Retry: 3. An error occurred while attempting to establish an SSL or TLS connection.
+
+The host name did not match the name given in the server's SSL certificate.
+ at Source: Invoke BOU.001.03 workflow: Invoke BOU.001.04 workflow: Send SMTP Mail Message"
+03/07/2022,11:43:34,,Invoke BOU.001.03 workflow: Invoke BOU.001.04 workflow: Send SMTP Mail Message,Failed,"System exception. Retry: 0. An error occurred while attempting to establish an SSL or TLS connection.
+
+The host name did not match the name given in the server's SSL certificate.
+ at Source: Invoke BOU.001.03 workflow: Invoke BOU.001.04 workflow: Send SMTP Mail Message"
